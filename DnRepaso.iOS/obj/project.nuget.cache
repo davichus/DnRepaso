@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yUDwuC+5fN3dPSFKf7+vTMSdelA9IeHM4hT2aj4B7m8Z2V6qDHG4TSeKvFl+fhSeGXf1Reonz2boR5UnVJQhXA==",
+  "success": true,
+  "projectFilePath": "/Users/davidnavarrete/Projects/DnRepaso/DnRepaso/DnRepaso.iOS/DnRepaso.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/davidnavarrete/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/davidnavarrete/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/davidnavarrete/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
