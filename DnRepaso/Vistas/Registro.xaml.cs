@@ -18,6 +18,7 @@ namespace DnRepaso.Vistas
         {
 			try
 			{
+				string ap = "";
                 double precio = Convert.ToDouble(txtPrecio.Text);
                 int cantidad = Convert.ToInt32(txtCantidad.Text);
 
